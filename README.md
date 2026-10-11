@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Arel! 👋
 
-<!--
-**ArelDemircan/ArelDemircan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 I am a passionate developer focused on building and learning new technologies.
+- 🎯 My goal is to master modern software development and contribute to impactful open-source projects.
+- 🌱 Currently expanding my skill set and diving deeper into coding daily.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+</p>
+
+*(Note: You can easily edit the line above by adding or removing languages like `ts,react,nodejs` inside the URL later!)*
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://vercel.app" alt="Arel's GitHub Stats" height="180" />
+  <img src="https://herokuapp.com" alt="Arel's Streak" height="180" />
+</p>
