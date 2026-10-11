@@ -14,8 +14,6 @@
   </a>
 </p>
 
-*(Note: You can easily edit the line above by adding or removing languages like `ts,react,nodejs` inside the URL later!)*
-
 ---
 
 ## 📊 GitHub Stats
